@@ -1,0 +1,18 @@
+
+venv/
+
+\.ipynb_checkpoints/
+
+\.idea/
+
+SCUT-FBP5500_v2/facial landmark/
+
+SCUT-FBP5500_v2/Images_Sources\.xlsx
+
+SCUT-FBP5500_v2/train_test_files\.zip
+
+SCUT-FBP5500_v2/README\.txt
+
+SCUT-FBP5500_v2/All_Ratings\.xlsx
+
+FBFB\.jpg
